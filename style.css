@@ -21,7 +21,7 @@ body{
 }
 .header{
     background: #F3EED9;
-    min-height: 350px;
+    min-height: 98vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -36,7 +36,7 @@ body{
 .heading--heading--description{
     font-family: 'Playfair Display', serif;
     color: #824936;
-    font-size: 3.12rem;
+    font-size: 4rem;
 }
 @media all and (max-width:570px) {
     .heading--heading--description{
@@ -70,9 +70,10 @@ main{
 }
 .quality-designs-heading{
     font-family: 'Playfair Display', serif;
+    font-size: 3rem;
     color: #824936;
     text-align: center;
-    margin-top: 3em;
+    margin-top: 1.6em;
 }
 .quality-designs-info{
 
@@ -111,12 +112,16 @@ main{
 .section-1 .image-text-heading{
     text-align: center;
     margin-bottom: 0.5em;
+    font-size: 2.6rem;
 }
 .section-1 .image-text-desc{
     text-align: center;
     font-family: 'Poppins', sans-serif;
-    font-size: 0.95rem;
+    font-size: 1.1rem;
+    font-weight: 500;
     padding: 0 1.3em;
+    width: 60%;
+    margin: 0 auto;
 }
 .j::first-letter{
     font-size:1.8em;
@@ -157,12 +162,16 @@ main{
 .section-2 .image-text-heading{
     text-align: center;
     margin-bottom: 0.5em;
+    font-size: 2.6rem;
 }
 .section-2 .image-text-desc{
     text-align: center;
     font-family: 'Poppins', sans-serif;
-    font-size: 0.95rem;
+    font-size: 1.1rem;
+    font-weight: 500;
     padding: 0 1.3em;
+    width: 60%;
+    margin: 0 auto;
 }
 .icons{
     margin: 1em 0.00001em 0.00001em 0.00001em ;
