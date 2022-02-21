@@ -20,7 +20,7 @@
 
 #### Question 2 - Can you provide a link of your project thorugh any hosting websites?
 
-Answer - Sure, here it is **hhttps://sharp-easley-7d66e0.netlify.app**
+Answer - Sure, here it is **https://sharp-easley-7d66e0.netlify.app**
 
 ## 🚀 End
 Hope this project helps you to learn something new. :D
